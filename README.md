@@ -6,14 +6,14 @@ I wanted to find out how much a diversified portfolio could lose in a single day
 
 Daily adjusted closing prices for eight US-listed ETFs from January 2015 to September 2026, downloaded from Yahoo Finance. Adjusted prices include dividends. The portfolio holds 12.5% in each ETF and is rebalanced daily.
 
-- SPY : US large-cap equities (S&P 500) 
-- EFA : Developed markets ex-US equities 
-- EEM : Emerging-market equities 
-- TLT : Long-dated US Treasuries 
-- IEF : 7–10 year US Treasuries 
-- LQD : Investment-grade corporate bonds 
-- GLD : Gold 
-- UUP : US dollar index 
+- SPY: US large-cap equities (S&P 500) 
+- EFA: Developed markets ex-US equities 
+- EEM: Emerging-market equities 
+- TLT: Long-dated US Treasuries 
+- IEF: 7–10 year US Treasuries 
+- LQD: Investment-grade corporate bonds 
+- GLD: Gold 
+- UUP: US dollar index 
 
 ## What the script does
 
